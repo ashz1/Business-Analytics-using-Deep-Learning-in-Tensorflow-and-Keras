@@ -11,7 +11,7 @@ The goal is to classify loan statuses into three categories: Good, Warning, and 
 
 ## Dataset
 
-- **Source:** [Lending Club Loan Data on Kaggle](https://www.kaggle.com/wendykan/lending-club-loan-data)
+- **Source:** Lending Club Loan Data on Kaggle
 - **Size:** ~890,000 observations and 75 variables
 - **Features:** Includes loan amount, interest rate, credit score, and more.
 
